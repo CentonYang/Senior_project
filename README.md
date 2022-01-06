@@ -1,2 +1,2 @@
 # Senior_project
-Only the command input is tried.
+Try to do the command input.
